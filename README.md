@@ -5,7 +5,7 @@
 
 #### if you wanna run the program download the .exe file, or if you want... clone this repo.
 
-### run program:
+### run program in your shell:
 
 ```bash
 convertImgToaAscii.exe -x 15 -y 7 -image "../../images/image.jpg/png"
