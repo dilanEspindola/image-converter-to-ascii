@@ -1,7 +1,7 @@
 package main
 
 import (
-	"convterImgToAscii/helpers"
+	"convertImgToAscii/helpers"
 	"flag"
 	"fmt"
 	_ "image/gif"

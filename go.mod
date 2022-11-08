@@ -1,4 +1,4 @@
-module convterImgToAscii
+module convertImgToAscii
 
 go 1.19
 
